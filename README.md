@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Pymaceuticals- Matplotlib Pharmaceutical Drug Analysis
 Pymaceuticals Inc.
 * [General info](#general-info)
 * [Technologies](#technologies)
